@@ -11,7 +11,7 @@ module.exports = {
   author: 'Denis Dinkevich',
   githubUrl: 'https://github.com/SourcingDenis/medium-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://app.netlify.com/sites/focused-hawking-5b2f03/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'SourcingDenis',
